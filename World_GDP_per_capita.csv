@@ -33,17 +33,17 @@ Barbados,25365.79494
 Brunei Darussalam,33417.83577
 Bhutan,
 Botswana,7695.242064
-Central African Republic,516.1704245
+Central African Rep.,516.1704245
 Canada,54282.61761
 Central Europe and the Baltics,24543.30406
 Switzerland,103669.872
 Channel Islands,
 Chile,16709.8894
 China,13303.14815
-Cote d'Ivoire,2709.895116
+Côte d'Ivoire,2709.895116
 Cameroon,1762.368351
-"Congo, Dem. Rep.",647.4357048
-"Congo, Rep.",2482.248947
+Dem. Rep. Congo,647.4357048
+Congo,2482.248947
 Colombia,7913.988015
 Comoros,1784.115469
 Cabo Verde,5272.85253
@@ -111,7 +111,7 @@ Isle of Man,
 India,2696.6639
 Not classified,
 Ireland,107316.3373
-"Iran, Islamic Rep.",4771.40029
+Iran,4771.40029
 Iraq,6073.610323
 Iceland,82703.85799
 Israel,54176.68444
@@ -121,14 +121,14 @@ Jordan,4618.095925
 Japan,32475.8925
 Kazakhstan,14005.34874
 Kenya,2206.134979
-Kyrgyz Republic,2419.265536
+Kyrgyzstan,2419.265536
 Cambodia,2627.879697
 Kiribati,2288.634583
 St. Kitts and Nevis,22771.41689
 "Korea, Rep.",
 Kuwait,32213.86223
 Latin America & Caribbean (excluding high income),10344.6689
-Lao PDR,2123.979094
+Laos,2123.979094
 Lebanon,
 Liberia,846.2773684
 Libya,6318.40314
@@ -156,7 +156,7 @@ Maldives,13215.53536
 Mexico,14157.94458
 Marshall Islands,7466.651865
 Middle income,6524.257358
-North Macedonia,9310.0279
+Macedonia,9310.0279
 Mali,1086.176218
 Malta,42347.30739
 Myanmar,1359.259614
@@ -220,10 +220,10 @@ Sub-Saharan Africa,1516.35448
 Small states,15291.69577
 Sao Tome and Principe,3244.828997
 Suriname,7430.702192
-Slovak Republic,26147.90284
+Slovakia,26147.90284
 Slovenia,34089.35277
 Sweden,57723.2345
-Eswatini,3936.109692
+eSwatini,3936.109692
 Sint Maarten (Dutch part),40027.9176
 Seychelles,17858.82264
 Syrian,
@@ -243,7 +243,7 @@ South Asia (IDA & IBRD),2691.645563
 Sub-Saharan Africa (IDA & IBRD countries),1516.35448
 Trinidad and Tobago,19314.71634
 Tunisia,4350.371797
-Turkiye,15473.28726
+Turkey,15473.28726
 Tuvalu,
 Tanzania,1185.745483
 Uganda,1072.713698
@@ -253,10 +253,10 @@ Uruguay,23906.5133
 United States of America,85809.90038
 Uzbekistan,3161.700106
 St. Vincent and the Grenadines,11501.22652
-"Venezuela, RB",
+Venezuela,
 British Virgin Islands,
 Virgin Islands (U.S.),
-Viet Nam,4717.290287
+Vietnam,4717.290287
 Vanuatu,3542.810716
 World,13673.00396
 Samoa,4898.771408
