@@ -13,7 +13,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/bernicecck0412/W9_Homework/refs/heads/main/World_GDP_per_capita.csv"
+          "url": "https://raw.githubusercontent.com/bernicecck0412/W9_Homework/main/data/World_GDP_per_capita.csv"
         },
         "key": "Country Name",
         "fields": ["2024"]
