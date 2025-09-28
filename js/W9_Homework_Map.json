@@ -30,7 +30,7 @@
       "type": "quantitative",
       "scale": {
         "type": "threshold",
-        "domain": [10000, 20000, 30000, 40000, 50000],
+        "domain": [10000, 20000, 30000, 40000, 50000, 60000],
         "range": ["#feedde", "#fdd0a2", "#fdae6b", "#fd8d3c","#f16913", "#d94801", "#8c2d04"]
       }
     },
